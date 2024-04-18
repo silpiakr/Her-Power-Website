@@ -254,3 +254,26 @@ button:focus:not(:focus-visible) {
     height: 500px;
     margin-top: -30px;
 }
+.sc-3sd {
+    background: linear-gradient(to right, #FBCFE8 10%, #edd1fb 90%);
+    width: 76.3%;
+    padding-left: 7px;
+    padding-top: 7px;
+    background-position: center;
+}
+.sc-3sd:hover {
+    border: 1px solid rgb(63, 1, 96);
+}
+.dr-sec2 {
+    width: 100%;
+}
+.sec-d2 {
+    width: 98%;
+}
+.sec-img {
+    margin-right: 200px;
+}
+.sec-img img {
+    width: 168%;
+    height: 350px;
+}
