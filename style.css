@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    font-family: 'Kalpurush', Arial, sans-serif !important;
+}
+nav {
+    height: 96px;
+    width: 100%;
+    background: linear-gradient(to left, #F273B5 7% , #52D983 81% , #C084FC 94%);
+    display: flex;
+    z-index: 1;
+    position: absolute;
+}
+.allnav {
+    width: 76%;
+}
+.banner {
+    background: linear-gradient(to right, #FCE7F3, #F3E8FF 100%);
+    margin-top: 80px;
+    height: 500px;
+}
